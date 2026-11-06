@@ -34,6 +34,8 @@ python3 -m http.server 8000
 2. Add an object to that region's `spots` array in `data/places.json`.
 3. Reload. No code changes are needed.
 
+Each spot opens with its main `image`. If the spot has a `gallery`, the photos become a carousel: swipe on a phone, or use the arrow buttons or the arrow keys. A counter and dots show your position, and the credit line follows the current photo. To add a photo, append an entry to `gallery`.
+
 Spots appear under their category heading in the order they appear in the JSON. Every fourth spot in a category is automatically shown as a full-width "feature". You can force or prevent that with `"layout": "feature"` or `"layout": "standard"`.
 
 ## JSON schema
@@ -77,6 +79,10 @@ Spots appear under their category heading in the order they appear in the JSON. 
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:…",
             "via": "Wikimedia Commons"
           },
+          "gallery": [                  // optional: extra photos shown in a swipeable carousel
+            { "image": "images/lisbon/alfama-2.webp", "imageSmall": "images/lisbon/alfama-2-800.webp",
+              "alt": "Describe the photo", "credit": { /* imageCredit */ }, "focus": "50% 50%" }
+          ],
           "tags": ["fado", "viewpoints"],
           "effort": "easy",             // optional: easy | short stroll | easy to moderate | moderate
           "mapUrl": "https://www.google.com/maps/search/?api=1&query=Alfama%20Lisbon",

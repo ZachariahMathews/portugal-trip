@@ -87,6 +87,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/praca-do-comercio-2.webp",
+              "imageSmall": "images/lisbon/praca-do-comercio-2-800.webp",
+              "alt": "Praça do Comércio's yellow arcades and arch seen from a boat on the Tagus",
+              "credit": {
+                "photographer": "Jakub Hałun",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Pra%C3%A7a_do_Com%C3%A9rcio_from_the_Tagus_River_in_Lisbon,_20250604_2038_9656.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/praca-do-comercio-3.webp",
+              "imageSmall": "images/lisbon/praca-do-comercio-3-800.webp",
+              "alt": "A long vaulted arcade along the side of Praça do Comércio",
+              "credit": {
+                "photographer": "Ingo Mehling",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Praca_do_Comercio_-_Arcades.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/praca-do-comercio-4.webp",
+              "imageSmall": "images/lisbon/praca-do-comercio-4-800.webp",
+              "alt": "Praça do Comércio and the river seen from the hills above the Baixa",
+              "credit": {
+                "photographer": "NorbertNagel",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praca_do_Comercio_-_Lisbon_-_Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "flat",
             "riverfront",
@@ -113,6 +151,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Alfama_-_Rua_da_Adica_-_1.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/alfama-2.webp",
+              "imageSmall": "images/lisbon/alfama-2-800.webp",
+              "alt": "A yellow tram passing Largo de Santa Luzia in Alfama",
+              "credit": {
+                "photographer": "Ingo Mehling",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Alfama_-_Largo_Santa_Luzia_-_Streetcar_-_1.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/alfama-3.webp",
+              "imageSmall": "images/lisbon/alfama-3-800.webp",
+              "alt": "White and pastel houses stacked up the Alfama hillside",
+              "credit": {
+                "photographer": "Matti Blume",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03371).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/alfama-4.webp",
+              "imageSmall": "images/lisbon/alfama-4-800.webp",
+              "alt": "Alfama rooftops above the Tagus",
+              "credit": {
+                "photographer": "Matti Blume",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfama,_Lisbon_(DSC03367).jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "fado",
             "cobblestones",
@@ -140,6 +216,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_famous_Lisbon_tram_line_28E_(28751566927).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/baixa-chiado-2.webp",
+              "imageSmall": "images/lisbon/baixa-chiado-2-800.webp",
+              "alt": "A tram on a narrow street in central Lisbon at dusk",
+              "credit": {
+                "photographer": "Naval S",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_tram_28E_(39528478625).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/baixa-chiado-3.webp",
+              "imageSmall": "images/lisbon/baixa-chiado-3-800.webp",
+              "alt": "A tram at Praça Luís de Camões in Chiado",
+              "credit": {
+                "photographer": "Edgar Jiménez",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Lisbon_tram_at_Praca_do_Camoes.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "cafés",
             "shopping",
@@ -166,6 +268,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocean%C3%A1rio_de_Lisboa_(53870803219).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/parque-das-nacoes-2.webp",
+              "imageSmall": "images/lisbon/parque-das-nacoes-2-800.webp",
+              "alt": "Sharks and rays gliding past the windows of the Oceanário's central tank",
+              "credit": {
+                "photographer": "Sonse",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Oceanarium_%E2%80%A2_Ocean%C3%A1rio_de_Lisboa.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/parque-das-nacoes-3.webp",
+              "imageSmall": "images/lisbon/parque-das-nacoes-3-800.webp",
+              "alt": "A shoal of silver fish swirling in deep blue water at the Oceanário",
+              "credit": {
+                "photographer": "Sonse",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_Swarm_%E2%80%A2_Lisbon_Oceanarium_%E2%80%A2_Ocean%C3%A1rio_de_Lisboa_-_49680778561.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/parque-das-nacoes-4.webp",
+              "imageSmall": "images/lisbon/parque-das-nacoes-4-800.webp",
+              "alt": "A pale jellyfish drifting against a black background at the Oceanário",
+              "credit": {
+                "photographer": "Sonse",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jellyfish_%E2%80%A2_Lisbon_Oceanarium_%E2%80%A2_Ocean%C3%A1rio_de_Lisboa.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "flat",
             "waterfront",
@@ -193,6 +333,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m_-_Lisbon_-_Portugal_-_02.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/jeronimos-2.webp",
+              "imageSmall": "images/lisbon/jeronimos-2-800.webp",
+              "alt": "Jerónimos Monastery's long limestone façade behind green lawns",
+              "credit": {
+                "photographer": "Jakub Hałun",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m,_Lisbon,_20250604_1342_9260.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/jeronimos-3.webp",
+              "imageSmall": "images/lisbon/jeronimos-3-800.webp",
+              "alt": "Intricately carved Manueline stonework on the monastery's portal",
+              "credit": {
+                "photographer": "NorbertNagel",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m_-_Lisbon_-_Portugal_-_05.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "UNESCO",
             "Manueline",
@@ -219,6 +385,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-35-39.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/belem-tower-2.webp",
+              "imageSmall": "images/lisbon/belem-tower-2-800.webp",
+              "alt": "Belém Tower floodlit at night",
+              "credit": {
+                "photographer": "Rodrigo.Argenton",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_de_Bel%C3%A9m_por_Rodrigo_Tetsuo_Argenton_(2).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/belem-tower-3.webp",
+              "imageSmall": "images/lisbon/belem-tower-3-800.webp",
+              "alt": "Belém Tower at the water's edge on the Tagus",
+              "credit": {
+                "photographer": "Alvesgaspar",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "UNESCO",
             "riverfront",
@@ -245,6 +437,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteis_de_nata_from_Belem_(22023386232).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/pasteis-de-belem-2.webp",
+              "imageSmall": "images/lisbon/pasteis-de-belem-2-800.webp",
+              "alt": "A basket of custard tarts at Pastéis de Belém",
+              "credit": {
+                "photographer": "ProtoplasmaKid",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteles_de_nata_en_Pasteis_de_Bel%C3%A9m.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/pasteis-de-belem-3.webp",
+              "imageSmall": "images/lisbon/pasteis-de-belem-3-800.webp",
+              "alt": "A single pastel de nata with a blistered, caramelised top",
+              "credit": {
+                "photographer": "helmut.weigel",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteis_de_Nata.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "pastry",
             "institution",
@@ -271,6 +489,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Monserrate_(1).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/monserrate-2.webp",
+              "imageSmall": "images/lisbon/monserrate-2-800.webp",
+              "alt": "Monserrate's Moorish-style arched interior gallery",
+              "credit": {
+                "photographer": "Stavros Argyropoulos",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Monserrate_(Monserrate_Palace)_Sintra,_Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/monserrate-3.webp",
+              "imageSmall": "images/lisbon/monserrate-3-800.webp",
+              "alt": "A romantic ruined chapel overgrown with greenery in Monserrate's gardens",
+              "credit": {
+                "photographer": "Miguelmcorreia",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falsa_ru%C3%ADna_da_capela_de_Monserrate.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/monserrate-4.webp",
+              "imageSmall": "images/lisbon/monserrate-4-800.webp",
+              "alt": "Monserrate Palace seen across its lawns",
+              "credit": {
+                "photographer": "LennyAragon",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Monserrate.1.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "gardens",
             "palace",
@@ -298,6 +554,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/pena-palace-2.webp",
+              "imageSmall": "images/lisbon/pena-palace-2-800.webp",
+              "alt": "Pena Palace's yellow tower and grey turrets",
+              "credit": {
+                "photographer": "Jakub Hałun",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pena_Palace,_Sintra,_Portugal,_20250606_1037_0005.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/pena-palace-3.webp",
+              "imageSmall": "images/lisbon/pena-palace-3-800.webp",
+              "alt": "Ornate tiled Manueline gateway at Pena Palace",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_da_Pena,_Sintra,_Portugal,_2019-05-25,_DD_131.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/pena-palace-4.webp",
+              "imageSmall": "images/lisbon/pena-palace-4-800.webp",
+              "alt": "Pena Palace perched on a forested hilltop in the Sintra hills",
+              "credit": {
+                "photographer": "Jakub Hałun",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Nacional_da_Pena,_Sintra,_Portugal,_20250606_1159_0132.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "UNESCO",
             "palace",
@@ -327,6 +621,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_56.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/regaleira-2.webp",
+              "imageSmall": "images/lisbon/regaleira-2-800.webp",
+              "alt": "Looking down the spiral stone galleries of Regaleira's Initiation Well",
+              "credit": {
+                "photographer": "Hugo Ferreira",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira_-_Po%C3%A7o_Inici%C3%A1tico_(7).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/regaleira-3.webp",
+              "imageSmall": "images/lisbon/regaleira-3-800.webp",
+              "alt": "A carved Gothic-style portal at Quinta da Regaleira",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2022-07-25,_DD_16.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/regaleira-4.webp",
+              "imageSmall": "images/lisbon/regaleira-4-800.webp",
+              "alt": "A small domed pavilion on a crenellated garden terrace at Regaleira",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_48.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "gardens",
             "grottoes",
@@ -353,6 +685,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_da_Ribeira,_Cascais,_Portugal,_2022-07-25,_DD_02.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/cascais-2.webp",
+              "imageSmall": "images/lisbon/cascais-2-800.webp",
+              "alt": "Cascais marina and bay full of moored boats",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_da_Ribeira,_Cascais,_Portugal,_2022-07-25,_DD_01.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/cascais-3.webp",
+              "imageSmall": "images/lisbon/cascais-3-800.webp",
+              "alt": "Santa Marta lighthouse and a seaside mansion in Cascais at dusk",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faro_de_Santa_Marta,_Cascais,_Portugal,_2022-07-25,_DD_13-15_HDR.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/cascais-4.webp",
+              "imageSmall": "images/lisbon/cascais-4-800.webp",
+              "alt": "Waves on the Cascais seafront with villas behind",
+              "credit": {
+                "photographer": "Ввласенко",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cascais._Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "seaside",
             "seafood",
@@ -380,6 +750,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagus_River_sunset_-_Sailing_boats_returning_to_dock_(50298826106).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/lisbon/tagus-sunset-sail-2.webp",
+              "imageSmall": "images/lisbon/tagus-sunset-sail-2-800.webp",
+              "alt": "The sun setting behind the 25 de Abril Bridge over the Tagus",
+              "credit": {
+                "photographer": "Pedro Simões",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponte_25_de_Abril_at_sunset_01.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/tagus-sunset-sail-3.webp",
+              "imageSmall": "images/lisbon/tagus-sunset-sail-3-800.webp",
+              "alt": "The Padrão dos Descobrimentos lit at night, with the bridge glowing beyond",
+              "credit": {
+                "photographer": "Rodrigo Tetsuo Argenton",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Padr%C3%A3o_dos_Descobrimentos_por_Rodrigo_Tetsuo_Argenton.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/lisbon/tagus-sunset-sail-4.webp",
+              "imageSmall": "images/lisbon/tagus-sunset-sail-4-800.webp",
+              "alt": "Boats in a riverside marina under the 25 de Abril Bridge after sunset",
+              "credit": {
+                "photographer": "Jppico",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marina_and_25_de_Abril_Bridge_after_sunset_-_Jppico_44.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "boat",
             "sunset",
@@ -472,6 +880,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Pico_do_Arieiro_-_Madeira_01.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/pico-do-arieiro-2.webp",
+              "imageSmall": "images/madeira/pico-do-arieiro-2-800.webp",
+              "alt": "Sharp volcanic peaks and drifting cloud from Pico do Arieiro",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Pico_do_Arieiro_-_Madeira_03.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/pico-do-arieiro-3.webp",
+              "imageSmall": "images/madeira/pico-do-arieiro-3-800.webp",
+              "alt": "A deep gorge falling away below the Pico do Arieiro viewpoint",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Pico_do_Arieiro_-_Madeira_05.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "viewpoint",
             "above the clouds",
@@ -498,6 +932,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o,_Madeira,_Portugal,_2019-05-28,_DD_31.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/ponta-do-rosto-2.webp",
+              "imageSmall": "images/madeira/ponta-do-rosto-2-800.webp",
+              "alt": "The São Lourenço peninsula's headlands and sea stacks",
+              "credit": {
+                "photographer": "Richard Bartz",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o_north_north_east.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/ponta-do-rosto-3.webp",
+              "imageSmall": "images/madeira/ponta-do-rosto-3-800.webp",
+              "alt": "A red rock sea stack off the São Lourenço peninsula",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cani%C3%A7al_(Madeira,_Portugal),_Ponta_de_S%C3%A3o_Louren%C3%A7o_--_2025_--_1343.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/ponta-do-rosto-4.webp",
+              "imageSmall": "images/madeira/ponta-do-rosto-4-800.webp",
+              "alt": "Red cliffs above a turquoise cove on the São Lourenço peninsula",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cani%C3%A7al_(Madeira,_Portugal),_Ponta_de_S%C3%A3o_Louren%C3%A7o_--_2025_--_1358.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "cliffs",
             "viewpoint",
@@ -523,6 +995,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_68.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/veu-da-noiva-2.webp",
+              "imageSmall": "images/madeira/veu-da-noiva-2-800.webp",
+              "alt": "The Véu da Noiva waterfall streaming down a dark cliff",
+              "credit": {
+                "photographer": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016-_V%C3%A9u_da_Noiva._Madeira._Portugal-3.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/veu-da-noiva-3.webp",
+              "imageSmall": "images/madeira/veu-da-noiva-3-800.webp",
+              "alt": "The waterfall and coastline seen from the viewpoint",
+              "credit": {
+                "photographer": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016-_V%C3%A9u_da_Noiva._Madeira._Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "waterfall",
             "viewpoint",
@@ -548,6 +1046,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabo_Gir%C3%A3o_-_Skywalk.JPG",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/cabo-girao-2.webp",
+              "imageSmall": "images/madeira/cabo-girao-2-800.webp",
+              "alt": "Terraced fields and the sea far below Cabo Girão",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Cabo_Gir%C3%A3o_02.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/cabo-girao-3.webp",
+              "imageSmall": "images/madeira/cabo-girao-3-800.webp",
+              "alt": "Visitors standing on the glass skywalk at Cabo Girão",
+              "credit": {
+                "photographer": "Ximonic (Simo Räsänen)",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glass_balcony_of_Cabo_Gir%C3%A3o_skywalk,_C%C3%A2mara_de_Lobos,_Madeira,_2023_May.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/cabo-girao-4.webp",
+              "imageSmall": "images/madeira/cabo-girao-4-800.webp",
+              "alt": "The sheer cliff of Cabo Girão dropping to the ocean",
+              "credit": {
+                "photographer": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016._Mar_com_correntes._Vista_desde_Cabo_Gir%C3%A3o._Madeira._Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "skywalk",
             "cliff",
@@ -574,6 +1110,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1532.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/fanal-2.webp",
+              "imageSmall": "images/madeira/fanal-2-800.webp",
+              "alt": "A huge moss-covered til tree trunk in the fog at Fanal",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1546.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/fanal-3.webp",
+              "imageSmall": "images/madeira/fanal-3-800.webp",
+              "alt": "A group of old laurel trees in mist on the Fanal plateau",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1554.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/fanal-4.webp",
+              "imageSmall": "images/madeira/fanal-4-800.webp",
+              "alt": "A lone til tree on a grassy slope in fog",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1519.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "laurel forest",
             "UNESCO",
@@ -601,6 +1175,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira_levada_Ribeiro_Frio_Balc%C3%B5es_2016_6.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/levada-dos-balcoes-2.webp",
+              "imageSmall": "images/madeira/levada-dos-balcoes-2-800.webp",
+              "alt": "Walkers on the Balcões viewpoint above the valley",
+              "credit": {
+                "photographer": "Karelj",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira_levada_Ribeiro_Frio_Balc%C3%B5es_2016_8.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/levada-dos-balcoes-3.webp",
+              "imageSmall": "images/madeira/levada-dos-balcoes-3-800.webp",
+              "alt": "Panorama of green ridges from the Balcões",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Balc%C3%B5es_-_Madeira.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "levada",
             "viewpoint",
@@ -629,6 +1229,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Oriental_Gardens_10.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/monte-palace-2.webp",
+              "imageSmall": "images/madeira/monte-palace-2-800.webp",
+              "alt": "An ornate blue-and-white azulejo panel in Monte Palace gardens",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Azulejo_02.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/monte-palace-3.webp",
+              "imageSmall": "images/madeira/monte-palace-3-800.webp",
+              "alt": "A small waterfall and statue in Monte Palace Tropical Garden",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Fountain_01.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/monte-palace-4.webp",
+              "imageSmall": "images/madeira/monte-palace-4-800.webp",
+              "alt": "A stone arch draped in ferns above a pool at Monte Palace",
+              "credit": {
+                "photographer": "H. Zell",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Fountain_02.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "gardens",
             "cable car",
@@ -656,6 +1294,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Moniz_(Madeira,_Portugal),_Piscinas_Naturais_do_Porto_Moniz_--_2025_--_1779.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/porto-moniz-2.webp",
+              "imageSmall": "images/madeira/porto-moniz-2-800.webp",
+              "alt": "Swimmers in the natural lava pools at Porto Moniz",
+              "credit": {
+                "photographer": "Xosema",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira_-_Porto_Moniz_-_03_-_Piscinas_naturales.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/porto-moniz-3.webp",
+              "imageSmall": "images/madeira/porto-moniz-3-800.webp",
+              "alt": "Jagged black rocks around the pools with an islet offshore",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piscinas_volc%C3%A1nicas_naturales,_Porto_Moniz,_Madeira,_Portugal,_2019-05-30,_DD_76.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "swimming",
             "volcanic",
@@ -681,6 +1345,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seixal_-_Ilha_da_Madeira_-_Portugal_(51817017914).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/seixal-2.webp",
+              "imageSmall": "images/madeira/seixal-2-800.webp",
+              "alt": "Seixal village and the north coast seen from the mountain road",
+              "credit": {
+                "photographer": "Gerda Arendt",
+                "license": "CC0",
+                "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Seixal,_Madeira,_from_mountain_road.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/seixal-3.webp",
+              "imageSmall": "images/madeira/seixal-3-800.webp",
+              "alt": "Waves washing over the dark stone beach at Seixal",
+              "credit": {
+                "photographer": "Feliciano Guimarães",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_beach_-_Seixal,_Madeira.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "beach",
             "black sand",
@@ -706,6 +1396,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Race_is_On.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/whale-watching-2.webp",
+              "imageSmall": "images/madeira/whale-watching-2-800.webp",
+              "alt": "An Atlantic spotted dolphin surfacing",
+              "credit": {
+                "photographer": "Alastair Rae",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Spotted_Dolphin_(27284229023).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/whale-watching-3.webp",
+              "imageSmall": "images/madeira/whale-watching-3-800.webp",
+              "alt": "A whale-watching boat on the open sea off Madeira",
+              "credit": {
+                "photographer": "Asurnipal",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira-Atlantic-Whale_and_Dolphin_Watching_Tours-01ASD.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/whale-watching-4.webp",
+              "imageSmall": "images/madeira/whale-watching-4-800.webp",
+              "alt": "A traditional schooner sailing on sparkling water off Madeira",
+              "credit": {
+                "photographer": "Asurnipal",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira-Atlantic-Margarita_Sunset-Whale_and_Dolphin_Watching_Tours-02ASD.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "boat",
             "wildlife",
@@ -731,6 +1459,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bolo_do_caco_acabadinhos_de_cozer.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/bolo-do-caco-2.webp",
+              "imageSmall": "images/madeira/bolo-do-caco-2-800.webp",
+              "alt": "Bolo do caco breads cooling on a counter",
+              "credit": {
+                "photographer": "Kostia",
+                "license": "CC0",
+                "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bolo_do_caco.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/bolo-do-caco-3.webp",
+              "imageSmall": "images/madeira/bolo-do-caco-3-800.webp",
+              "alt": "Vendors making bolo do caco at a festival stall in Funchal",
+              "credit": {
+                "photographer": "Stephen Colebourne",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vendedores_de_Bolo_do_Caco,_Funchal,_Madeira_-_Jan_2012.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "bread",
             "snack",
@@ -755,6 +1509,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Espetadagrill_am_Strandfest.JPG",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/espetada-2.webp",
+              "imageSmall": "images/madeira/espetada-2-800.webp",
+              "alt": "Espetada skewers roasting over embers in a barrel grill",
+              "credit": {
+                "photographer": "GerritR",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zum_Grill_umgebautes_Fass_mit_Espetada-Spie%C3%9Fen_II.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/espetada-3.webp",
+              "imageSmall": "images/madeira/espetada-3-800.webp",
+              "alt": "A beef espetada hanging from its hook beside a restaurant sign",
+              "credit": {
+                "photographer": "Sirujs Enobs",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Espetada,Boaventura-Sao_Jorge_-_panoramio.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "beef",
             "grilled",
@@ -779,6 +1559,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_(Madeira,_Portugal),_Porto_de_C%C3%A2mara_de_Lobos_--_2025_--_1901.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/camara-de-lobos-harbor-2.webp",
+              "imageSmall": "images/madeira/camara-de-lobos-harbor-2-800.webp",
+              "alt": "A red fishing boat painted with a dolphin in Câmara de Lobos",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_(Madeira,_Portugal),_Porto_de_C%C3%A2mara_de_Lobos_--_2025_--_1903.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/camara-de-lobos-harbor-3.webp",
+              "imageSmall": "images/madeira/camara-de-lobos-harbor-3-800.webp",
+              "alt": "Small boats moored in the harbour below the cliffs",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_(Madeira,_Portugal),_Porto_de_C%C3%A2mara_de_Lobos_--_2025_--_1890.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/camara-de-lobos-harbor-4.webp",
+              "imageSmall": "images/madeira/camara-de-lobos-harbor-4-800.webp",
+              "alt": "Close-up of a blue fishing boat's painted hull",
+              "credit": {
+                "photographer": "Dietmar Rabich",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_(Madeira,_Portugal),_Porto_de_C%C3%A2mara_de_Lobos_--_2025_--_1902.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "fishing village",
             "harbor",
@@ -804,6 +1622,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:GOC_Wheathampstead_Xmas_2013_061_Grilled_sea_bass_(11476849023).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/robalo-camara-de-lobos-2.webp",
+              "imageSmall": "images/madeira/robalo-camara-de-lobos-2-800.webp",
+              "alt": "A platter of limpets grilled in garlic butter with lemon, a Madeiran favourite",
+              "credit": {
+                "photographer": "Thomas Schoch",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patella_vulgata_Madeira_1.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/robalo-camara-de-lobos-3.webp",
+              "imageSmall": "images/madeira/robalo-camara-de-lobos-3-800.webp",
+              "alt": "A single grilled limpet in its shell",
+              "credit": {
+                "photographer": "Thomas Schoch",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patella_vulgata_Madeira_2.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "seafood",
             "lunch",
@@ -829,6 +1673,20 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poncha.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/poncha-2.webp",
+              "imageSmall": "images/madeira/poncha-2-800.webp",
+              "alt": "A painted door in Funchal's old town showing a barman mixing poncha",
+              "credit": {
+                "photographer": "Ввласенко",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Painted_door_(Ponsho)._Funchal,_Madeira.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "cocktail",
             "local classic",
@@ -854,6 +1712,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festa_da_Flor_2019,_Funchal,_Madeira_-_IMG_20190503_160908.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/flower-festival-2.webp",
+              "imageSmall": "images/madeira/flower-festival-2-800.webp",
+              "alt": "Life-size horses covered in red and yellow flowers at the Funchal Flower Festival",
+              "credit": {
+                "photographer": "Paul Mannix",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flower_horses_during_the_Flower_Festival,_Funchal,_Madeira,_Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/flower-festival-3.webp",
+              "imageSmall": "images/madeira/flower-festival-3-800.webp",
+              "alt": "A flower carpet of yellow and orange blooms laid on a Funchal street",
+              "credit": {
+                "photographer": "Paul Mannix",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flower_decorations_during_the_Flower_Festival,_Funchal,_Maderia,_Portugal.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "festival",
             "flowers",
@@ -879,6 +1763,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira-Porto_Moniz-Achadas_da_Cruz_aerial_tramway_(teleferico)-Faja_da_Quebrada_Nova-top_station-11ASD.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/madeira/achadas-da-cruz-2.webp",
+              "imageSmall": "images/madeira/achadas-da-cruz-2-800.webp",
+              "alt": "The cable car line dropping down the cliff toward the coastal terraces",
+              "credit": {
+                "photographer": "Asurnipal",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira-Porto_Moniz-Achadas_da_Cruz_aerial_tramway_(teleferico)-Faja_da_Quebrada_Nova-lower_station-23ASD.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/achadas-da-cruz-3.webp",
+              "imageSmall": "images/madeira/achadas-da-cruz-3-800.webp",
+              "alt": "Looking down from the cable car to terraced plots at the foot of the cliff",
+              "credit": {
+                "photographer": "anagh",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Touristic_village,_Achadas_da_Cruz,_Madeira,_Portugal,_June-July_2011_-_panoramio.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/madeira/achadas-da-cruz-4.webp",
+              "imageSmall": "images/madeira/achadas-da-cruz-4-800.webp",
+              "alt": "The green clifftops and coast near Achadas da Cruz",
+              "credit": {
+                "photographer": "anagh",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Path_to_the_cean,_Achadas_da_Cruz,_Madeira,_Portugal,_June-July_2011_-_panoramio.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "cable car",
             "cliff",
@@ -971,6 +1893,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagoa_das_Sete_Cidades,_Miradouro_da_vista_do_Rei,_Sete_Cidades,_Ponta_Delgada,_ilha_de_S%C3%A3o_Miguel,_A%C3%A7ores.JPG",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/vista-do-rei-2.webp",
+              "imageSmall": "images/azores/vista-do-rei-2-800.webp",
+              "alt": "The Sete Cidades lakes and caldera walls under a big sky",
+              "credit": {
+                "photographer": "Ymblanter",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Sete_Cidades_from_the_south.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/vista-do-rei-3.webp",
+              "imageSmall": "images/azores/vista-do-rei-3-800.webp",
+              "alt": "Patchwork pastures on the caldera floor beside the lake",
+              "credit": {
+                "photographer": "JopkeB",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_to_the_left_of_Lagoa_das_Sete_Cidades_2011.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "crater lakes",
             "viewpoint",
@@ -996,6 +1944,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sete_Cidades_view_(51841132890).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/boca-do-inferno-2.webp",
+              "imageSmall": "images/azores/boca-do-inferno-2-800.webp",
+              "alt": "Crater lakes layered between green ridges from Boca do Inferno",
+              "credit": {
+                "photographer": "JCNazza",
+                "license": "CC BY 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_da_Boca_do_Inferno_-_panoramio_(6).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/boca-do-inferno-3.webp",
+              "imageSmall": "images/azores/boca-do-inferno-3-800.webp",
+              "alt": "Lagoa de Santiago and Sete Cidades seen from the ridge",
+              "credit": {
+                "photographer": "José Luís Ávila Silveira/Pedro Noronha e Costa",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miradouro_da_Boca_do_Inferno,_Lagoa_das_Sete_Cidades,_ilha_de_S%C3%A3o_Miguel,_A%C3%A7ores.JPG",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "crater lakes",
             "short walk",
@@ -1021,6 +1995,32 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagoa_Do_Fogo_(43709754).jpeg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/lagoa-do-fogo-2.webp",
+              "imageSmall": "images/azores/lagoa-do-fogo-2-800.webp",
+              "alt": "Lagoa do Fogo's curving shoreline under grey cloud",
+              "credit": {
+                "photographer": "The Cosmonaut",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo_2023-02-26.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/lagoa-do-fogo-3.webp",
+              "imageSmall": "images/azores/lagoa-do-fogo-3-800.webp",
+              "alt": "Looking over Lagoa do Fogo and its forested crater walls",
+              "credit": {
+                "photographer": "Gonçalo Torres",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_overlooking_Lagoa_do_Fogo,_S%C3%A3o_Miguel_island,_Azores_(Portugal).jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "crater lake",
             "viewpoint",
@@ -1047,6 +2047,56 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldeiras_das_Furnas_EP1040562_(29867528667).jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/furnas-valley-2.webp",
+              "imageSmall": "images/azores/furnas-valley-2-800.webp",
+              "alt": "Cooks lifting a pot of cozido out of the steaming ground beside Furnas lake",
+              "credit": {
+                "photographer": "Sara Araújo Marques",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retirada_do_Cozido,_Furnas,_S%C3%A3o_Miguel,_A%C3%A7ores.JPG",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/furnas-valley-3.webp",
+              "imageSmall": "images/azores/furnas-valley-3-800.webp",
+              "alt": "A plate of cozido das Furnas with meats, sausage and vegetables",
+              "credit": {
+                "photographer": "Navin75",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cozido_das_Furnas_(50687782641).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/furnas-valley-4.webp",
+              "imageSmall": "images/azores/furnas-valley-4-800.webp",
+              "alt": "Steaming fumaroles beside the woods at Furnas lake",
+              "credit": {
+                "photographer": "Simiprof",
+                "license": "CC0",
+                "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fumaroles_of_Furnas_Lake_1.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/furnas-valley-5.webp",
+              "imageSmall": "images/azores/furnas-valley-5-800.webp",
+              "alt": "Steam rising through trees at the Caldeiras das Furnas",
+              "credit": {
+                "photographer": "Regina Hart",
+                "license": "CC BY-SA 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldeiras_das_Furnas_EP1040588_(30932909218).jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "geothermal",
             "boardwalk",
@@ -1074,6 +2124,32 @@
             "via": "Wikimedia Commons"
           },
           "imageFocus": "50% 88%",
+          "gallery": [
+            {
+              "image": "images/azores/terra-nostra-2.webp",
+              "imageSmall": "images/azores/terra-nostra-2-800.webp",
+              "alt": "Aerial view of Terra Nostra's orange thermal pool amid gardens",
+              "credit": {
+                "photographer": "Jules Verne Times Two",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_thermal_water_pool,_Parque_Terra_Nostra,_Furnas,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected)-2.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/terra-nostra-3.webp",
+              "imageSmall": "images/azores/terra-nostra-3-800.webp",
+              "alt": "The thermal pool and manor house seen from above",
+              "credit": {
+                "photographer": "Jules Verne Times Two",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_thermal_water_pool,_Parque_Terra_Nostra,_Furnas,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "botanical garden",
             "hot spring",
@@ -1099,6 +2175,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hot_spring_in_Caldeira_Velha.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/caldeira-velha-2.webp",
+              "imageSmall": "images/azores/caldeira-velha-2-800.webp",
+              "alt": "A turquoise thermal pool beneath a waterfall in the ferns",
+              "credit": {
+                "photographer": "Vimacopeca",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldeira_Velha_Natural_Monument.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/caldeira-velha-3.webp",
+              "imageSmall": "images/azores/caldeira-velha-3-800.webp",
+              "alt": "The Caldeira Velha waterfall over mossy rock",
+              "credit": {
+                "photographer": "Samuel Monteiro Domingues",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cascata_da_Caldeira_Velha.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/caldeira-velha-4.webp",
+              "imageSmall": "images/azores/caldeira-velha-4-800.webp",
+              "alt": "Giant tree ferns in the Caldeira Velha ravine",
+              "credit": {
+                "photographer": "Alexandros Kellaris",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldeira_Velha_flora_(51841159605).jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "hot spring",
             "rainforest",
@@ -1125,6 +2239,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorreana_Tea_Plantation_kz01.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/gorreana-tea-2.webp",
+              "imageSmall": "images/azores/gorreana-tea-2-800.webp",
+              "alt": "Neat rows of tea bushes at Gorreana",
+              "credit": {
+                "photographer": "kuhnmi",
+                "license": "CC BY 2.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%C3%A1_Gorreana_Tea_Plantation_(53463260508).jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/gorreana-tea-3.webp",
+              "imageSmall": "images/azores/gorreana-tea-3-800.webp",
+              "alt": "Tea terraces rolling across the hills at Gorreana",
+              "credit": {
+                "photographer": "Luky001",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tea_plantation_of_Gorreana,_S%C3%A3o_Miguel_Island,_Azores,_April_2019.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/gorreana-tea-4.webp",
+              "imageSmall": "images/azores/gorreana-tea-4-800.webp",
+              "alt": "Tea rows edged with flowers at Gorreana",
+              "credit": {
+                "photographer": "Eduardo Manchon",
+                "license": "CC BY-SA 3.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tea_plantation_of_Gorreana,_S%C3%A3o_Miguel_Island,_Azores_-_panoramio_-_Eduardo_Manchon.jpg",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "tea",
             "plantation",
@@ -1150,6 +2302,44 @@
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portas_de_Cidade,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_81.jpg",
             "via": "Wikimedia Commons"
           },
+          "gallery": [
+            {
+              "image": "images/azores/ponta-delgada-2.webp",
+              "imageSmall": "images/azores/ponta-delgada-2-800.webp",
+              "alt": "The Portas da Cidade lit up at dusk",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portas_da_Cidade,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-29,_DD_123-125_HDR.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/ponta-delgada-3.webp",
+              "imageSmall": "images/azores/ponta-delgada-3-800.webp",
+              "alt": "Ponta Delgada's mosaic-paved square with the clock tower",
+              "credit": {
+                "photographer": "Diego Delso",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Gon%C3%A7alo_Velho,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_80.jpg",
+                "via": "Wikimedia Commons"
+              }
+            },
+            {
+              "image": "images/azores/ponta-delgada-4.webp",
+              "imageSmall": "images/azores/ponta-delgada-4-800.webp",
+              "alt": "Rows of pineapple plants growing inside a whitewashed glasshouse near Ponta Delgada",
+              "credit": {
+                "photographer": "José Luís Ávila Silveira/Pedro Noronha e Costa",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estufa_de_Anan%C3%A1s,_Faj%C3%A3_de_Baixo,_Ponta_Delgada,_ilha_de_S%C3%A3o_Miguel,_A%C3%A7ores.JPG",
+                "via": "Wikimedia Commons"
+              }
+            }
+          ],
           "tags": [
             "harbor",
             "seafood",

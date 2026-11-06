@@ -102,6 +102,13 @@
     var small = safeUrl(opts.small);
     var srcset = small ? ' srcset="' + esc(small) + " 800w, " + esc(src) + ' 1600w" sizes="' + esc(opts.sizes || "100vw") + '"' : "";
     var loading = opts.eager ? ' fetchpriority="high"' : ' loading="lazy"';
+    if (opts.defer) {
+      // gallery photos further along: real URLs are swapped in when the reader gets close
+      srcset = srcset.replace(" srcset=", " data-srcset=");
+      return '<div class="img-frame ' + (opts.cls || "") + '"><img data-src="' + esc(src) + '"' + srcset +
+        ' alt="' + esc(opts.alt || "") + '" decoding="async" loading="lazy" data-label="' + esc(opts.label || "") + '"' +
+        (opts.focus && /^[\d.]+% [\d.]+%$/.test(opts.focus) ? ' style="object-position:' + opts.focus + '"' : "") + "></div>";
+    }
     return '<div class="img-frame ' + (opts.cls || "") + '"><img src="' + esc(src) + '"' + srcset +
       ' alt="' + esc(opts.alt || "") + '" decoding="async"' + loading +
       (opts.focus && /^[\d.]+% [\d.]+%$/.test(opts.focus) ? ' style="object-position:' + opts.focus + '"' : "") + ' data-label="' + esc(opts.label || "") + '"></div>';
@@ -109,7 +116,7 @@
   // Swap any image that fails to load for a placeholder.
   document.addEventListener("error", function (e) {
     var el = e.target;
-    if (!el || el.tagName !== "IMG" || !el.parentNode) return;
+    if (!el || el.tagName !== "IMG" || !el.parentNode || el.hasAttribute("data-src")) return;
     var frame = el.parentNode;
     frame.classList.add("img-frame--placeholder");
     frame.setAttribute("role", "img");
@@ -228,8 +235,7 @@
 
     return '<article class="' + cls + '" id="' + esc(s.id) + '" data-category="' + esc(s.category) + '" aria-labelledby="h-' + esc(s.id) + '">' +
       '<figure class="spot__figure" data-reveal style="margin-block:0">' +
-      img({ src: s.image, small: s.imageSmall, alt: s.imageAlt || s.name, sizes: sizes, label: s.name, focus: s.imageFocus }) +
-      "<figcaption>" + credit(s.imageCredit) + "</figcaption>" +
+      galleryHTML(s, sizes) +
       "</figure>" +
       '<div class="spot__body" data-reveal>' +
       '<p class="kicker spot__area">' + esc(s.area) + "</p>" +
@@ -241,6 +247,104 @@
       '<div class="spot__actions">' + starButton(key, s.name) + links + "</div>" +
       "</div>" +
       "</article>";
+  }
+
+  /* ---------- photo gallery (swipeable carousel) ---------- */
+  function gallerySlides(s) {
+    var slides = [{ image: s.image, imageSmall: s.imageSmall, alt: s.imageAlt || s.name, credit: s.imageCredit, focus: s.imageFocus }];
+    (s.gallery || []).forEach(function (g) {
+      if (g && safeUrl(g.image)) slides.push({ image: g.image, imageSmall: g.imageSmall, alt: g.alt || s.name, credit: g.credit, focus: g.focus });
+    });
+    return slides;
+  }
+  function galleryHTML(s, sizes) {
+    var slides = gallerySlides(s);
+    if (slides.length < 2) {
+      return img({ src: s.image, small: s.imageSmall, alt: s.imageAlt || s.name, sizes: sizes, label: s.name, focus: s.imageFocus }) +
+        "<figcaption>" + credit(s.imageCredit) + "</figcaption>";
+    }
+    var n = slides.length;
+    var items = slides.map(function (sl, i) {
+      return '<li class="gallery__slide" role="group" aria-roledescription="slide" aria-label="' + (i + 1) + " of " + n + '">' +
+        img({ src: sl.image, small: sl.imageSmall, alt: sl.alt, sizes: sizes, label: s.name, focus: sl.focus, defer: i > 0 }) + "</li>";
+    }).join("");
+    var dots = slides.map(function (sl, i) {
+      return '<span class="gallery__dot' + (i === 0 ? " is-active" : "") + '"></span>';
+    }).join("");
+    var credits = slides.map(function (sl, i) {
+      return '<span class="gallery__credit"' + (i === 0 ? "" : " hidden") + ">" + credit(sl.credit) + "</span>";
+    }).join("");
+    return '<div class="gallery" data-gallery role="region" aria-roledescription="carousel" aria-label="Photos of ' + esc(s.name) + '">' +
+      '<ul class="gallery__track" tabindex="0" aria-label="' + n + ' photos of ' + esc(s.name) + '. Swipe or use the arrow keys.">' + items + "</ul>" +
+      '<p class="gallery__count" aria-hidden="true"><span data-current>1</span> / ' + n + "</p>" +
+      '<button type="button" class="gallery__nav gallery__nav--prev" data-dir="-1" aria-label="Previous photo of ' + esc(s.name) + '" disabled>' +
+      '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7"/></svg></button>' +
+      '<button type="button" class="gallery__nav gallery__nav--next" data-dir="1" aria-label="Next photo of ' + esc(s.name) + '">' +
+      '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 5l7 7-7 7"/></svg></button>' +
+      "</div>" +
+      '<figcaption class="gallery__caption"><span class="gallery__dots" aria-hidden="true">' + dots + "</span>" + credits + "</figcaption>";
+  }
+  function setupGalleries(root) {
+    var galleries = root.querySelectorAll("[data-gallery]");
+    for (var g = 0; g < galleries.length; g++) initGallery(galleries[g]);
+  }
+  function initGallery(el) {
+    var track = el.querySelector(".gallery__track");
+    var slides = track.children;
+    var n = slides.length;
+    var prev = el.querySelector(".gallery__nav--prev");
+    var next = el.querySelector(".gallery__nav--next");
+    var counter = el.querySelector("[data-current]");
+    var fig = el.parentNode;
+    var dots = fig.querySelectorAll(".gallery__dot");
+    var credits = fig.querySelectorAll(".gallery__credit");
+    var current = 0, ticking = false;
+    function index() { return Math.max(0, Math.min(n - 1, Math.round(track.scrollLeft / Math.max(1, track.clientWidth)))); }
+    function update() {
+      ticking = false;
+      var i = index();
+      if (i === current && counter.textContent === String(i + 1)) return;
+      current = i;
+      counter.textContent = i + 1;
+      prev.disabled = i === 0;
+      next.disabled = i === n - 1;
+      for (var d = 0; d < dots.length; d++) dots[d].classList.toggle("is-active", d === i);
+      for (var c = 0; c < credits.length; c++) credits[c].hidden = c !== i;
+      for (var s = 0; s < n; s++) slides[s].setAttribute("aria-hidden", s === i ? "false" : "true");
+      wake(i); wake(i + 1);
+    }
+    function wake(i) {
+      if (i < 0 || i >= n) return;
+      var im = slides[i].querySelector("img[data-src]");
+      if (!im) return;
+      if (im.getAttribute("data-srcset")) { im.setAttribute("srcset", im.getAttribute("data-srcset")); im.removeAttribute("data-srcset"); }
+      im.loading = "eager";
+      im.src = im.getAttribute("data-src"); im.removeAttribute("data-src");
+    }
+    function go(i) {
+      i = Math.max(0, Math.min(n - 1, i));
+      wake(i); wake(i + 1);
+      track.scrollTo({ left: i * track.clientWidth, behavior: motionOK ? "smooth" : "auto" });
+    }
+    track.addEventListener("pointerdown", function () { wake(current + 1); }, { passive: true });
+    track.addEventListener("touchstart", function () { wake(current + 1); }, { passive: true });
+    track.addEventListener("scroll", function () {
+      if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+    }, { passive: true });
+    prev.addEventListener("click", function () { go(current - 1); });
+    next.addEventListener("click", function () { go(current + 1); });
+    track.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowRight") { e.preventDefault(); go(current + 1); }
+      else if (e.key === "ArrowLeft") { e.preventDefault(); go(current - 1); }
+      else if (e.key === "Home") { e.preventDefault(); go(0); }
+      else if (e.key === "End") { e.preventDefault(); go(n - 1); }
+    });
+    // fetch the next photo as soon as the reader shows interest (hover, touch, focus)
+    el.addEventListener("pointerenter", function () { wake(current + 1); });
+    el.addEventListener("focusin", function () { wake(current + 1); });
+    for (var s = 1; s < n; s++) slides[s].setAttribute("aria-hidden", "true");
+    // keep the current slide aligned after a resize / rotation
+    window.addEventListener("resize", function () { track.scrollLeft = current * track.clientWidth; });
   }
 
   function interludeHTML(it) {
@@ -318,6 +422,7 @@
 
     main.innerHTML = html;
     setupFilters(main);
+    setupGalleries(main);
     observeReveals(main);
 
     // honour deep links to a spot (e.g. from the shortlist)

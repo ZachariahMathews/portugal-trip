@@ -47,5 +47,6 @@ These are the claims and practical details I couldn't fully confirm from officia
 - **Whale watching:** "more than 20 cetacean species recorded" is a commonly cited figure that I didn't trace to a primary source.
 - **Pastéis de Belém, Bertrand bookshop, Gorreana:** the "since 1837", "since 1732" and "Europe's oldest tea plantation (1883)" claims are the businesses' own, widely repeated.
 - **Representative photos (not taken at the exact spot):** Grilled Robalo (a sea bass fillet photographed outside Portugal; the blurb describes fish grilled whole), Poncha (a glass of poncha, not at Taberna da Poncha), Bolo do Caco, and Whale & Dolphin Watching (dolphins, location unspecified). The Azores hydrangea interlude is from the Azores, but the island isn't specified. Swap these if you find location-specific photos.
-- **Images not hotlinked:** all 43 photos are stored locally under `images/`, with credits in `data/places.json`. None are missing.
+- **Images not hotlinked:** all 136 photos (each spot's main photo, its gallery photos, and the region heroes and interludes) are stored locally under `images/`, with credits in `data/places.json`. None are missing.
+- **Galleries:** a few spots still have only 2–3 photos: Poncha, the Flower Festival, Bolo do Caco and Espetada. Good, freely licensed photos of these are scarce on Wikimedia Commons.
 - **Website links:** official URLs were added only where I was confident of them. Reported prices and hours are deliberately left out of the site.
