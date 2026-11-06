@@ -1,0 +1,1165 @@
+{
+  "site": {
+    "title": "Portugal: Three Ways In",
+    "eyebrow": "A travel guide in three parts",
+    "dek": "One river city, two Atlantic islands. Lisbon, Madeira and the Azores, read slowly and seen up close.",
+    "intro": "Portugal opens in different ways depending on where you enter. Lisbon gives you tiled lanes, river light and custard tarts. Madeira is mountains rising straight out of the sea, with walks along old water channels. The Azores are volcanic crater lakes, hot springs and fields kept green by the rain."
+  },
+  "regions": {
+    "lisbon": {
+      "name": "Lisbon",
+      "kicker": "The river city",
+      "tagline": "Seven hills, one wide river and light like nowhere else",
+      "teaser": "A city of viewpoints and tiled façades, rebuilt after a catastrophe and wearing its history lightly, with Sintra's palaces and the Cascais coast a short train ride away.",
+      "pullQuote": "Lisbon is best understood from above, then from the river, then on foot, slowly.",
+      "intro": [
+        "Lisbon faces the water. The Tagus widens into an estuary so broad that locals call it the Sea of Straw, and the city climbs away from it in terraces of pastel façades, terracotta roofs and church domes. For centuries the river was Lisbon's front door: ships left from Belém for India and Brazil, and the wealth they brought home paid for the carved limestone of Jerónimos and the stout little tower at the water's edge.",
+        "Then, on All Saints' Day in 1755, an earthquake, a tsunami and days of fire destroyed much of the city. What replaced it is the Baixa, an orderly grid of arcaded streets running down to Praça do Comércio. Only Alfama, built on firmer rock, kept its medieval tangle of lanes. Those two Lisbons, the planned and the improvised, sit side by side.",
+        "Lisbon rewards a slow pace. Ride a yellow tram up a hill you'd rather not climb, order a bica and a pastel de nata, and watch the light change over the river. The city works well as a base. Sintra's romantic palaces lie about 40 minutes away by train from Rossio, and the beaches and seafood of Cascais are a similar ride along the coast from Cais do Sodré."
+      ],
+      "quickFacts": [
+        {
+          "label": "Getting there",
+          "value": "Humberto Delgado Airport (LIS) sits close to the centre; the red metro line, taxis and ride-hailing all reach downtown in around 20–30 minutes."
+        },
+        {
+          "label": "Getting around",
+          "value": "Metro, trams, funiculars and the Santa Justa lift take the edge off the hills. Suburban trains run to Sintra (from Rossio) and Cascais (from Cais do Sodré)."
+        },
+        {
+          "label": "Best for",
+          "value": "Viewpoints, history, pastries and seafood, fado, and easy day trips to palaces and the sea."
+        },
+        {
+          "label": "The vibe",
+          "value": "Sunlit, slightly faded, sociable. Unhurried lunches, busy terraces, late dinners."
+        },
+        {
+          "label": "Good to know",
+          "value": "The polished limestone pavements (calçada) are slippery when wet, and many streets are steep. Wear shoes with grip and plan routes downhill where you can."
+        }
+      ],
+      "categoryIntros": {
+        "food-wine": "Sugar, cinnamon and burnt custard: the city's most famous mouthful has an address.",
+        "history-culture": "Monuments of the age of voyages, a city rebuilt after 1755, and Sintra's fairy-tale hilltops.",
+        "nature": "River, ocean and garden: the gentler, greener side of the capital and its coast."
+      },
+      "heroImage": "images/lisbon/hero.webp",
+      "heroImageSmall": "images/lisbon/hero-800.webp",
+      "heroAlt": "Terracotta rooftops of Alfama tumbling down toward the wide blue Tagus",
+      "heroCredit": {
+        "photographer": "Dale Cruse",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfama_Rooftops_and_Tagus_River_View,_Lisbon_(54733698959).jpg",
+        "via": "Wikimedia Commons"
+      },
+      "interludes": [
+        {
+          "image": "images/lisbon/interlude.webp",
+          "imageSmall": "images/lisbon/interlude-800.webp",
+          "alt": "A Lisbon house faced in patterned blue-and-white azulejo tiles with wrought-iron balconies",
+          "caption": "Azulejos, the glazed tiles that clad façades across the city, are Lisbon's signature texture.",
+          "credit": {
+            "photographer": "Singa Hitam",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_in_Lisbon_with_Azulejos_(tiles)_(20334304739).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "after": "history-culture"
+        }
+      ],
+      "spots": [
+        {
+          "id": "praca-do-comercio",
+          "name": "Praça do Comércio & the Tagus Riverfront",
+          "area": "Baixa",
+          "category": "history-culture",
+          "blurb": "Lisbon's grand riverside square opens onto the Tagus like a stage set, framed by yellow arcades and the triumphal Rua Augusta Arch. It stands where the royal palace stood before the 1755 earthquake. The square is flat, easy and best at golden hour, when the stone glows and the river turns silver. Stroll the waterfront to the Cais das Colunas steps, then slip into a café under the arcades.",
+          "image": "images/lisbon/praca-do-comercio.webp",
+          "imageSmall": "images/lisbon/praca-do-comercio-800.webp",
+          "imageAlt": "The triumphal Rua Augusta Arch rising above the yellow arcades of Praça do Comércio",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_02.JPG",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "flat",
+            "riverfront",
+            "sunset"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a%20do%20Com%C3%A9rcio%20Lisbon",
+          "bestTime": "Late afternoon into sunset",
+          "insiderTip": "Martinho da Arcada, under the northeast arcade, has been serving coffee since 1782."
+        },
+        {
+          "id": "alfama",
+          "name": "Alfama",
+          "area": "Alfama",
+          "category": "history-culture",
+          "blurb": "Lisbon's oldest quarter largely survived the 1755 earthquake. Its maze of lanes, laundry lines and tiled façades still follows a medieval plan, and fado drifts from tiny taverns after dark. To be honest about the terrain: there is no flat way through. Streets are steep, cobbled and often stepped. Ride tram 28 or a taxi up to Portas do Sol, then wander gently downhill toward the river.",
+          "image": "images/lisbon/alfama.webp",
+          "imageSmall": "images/lisbon/alfama-800.webp",
+          "imageAlt": "A narrow cobbled lane between tall pastel houses in Alfama",
+          "imageCredit": {
+            "photographer": "Ingo Mehling",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lissabon_-_Alfama_-_Rua_da_Adica_-_1.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "fado",
+            "cobblestones",
+            "viewpoints",
+            "hilly"
+          ],
+          "effort": "moderate",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Alfama%20Lisbon",
+          "bestTime": "Morning for quiet lanes; evening for fado",
+          "insiderTip": "Free public lifts from the Baixa (the Elevador do Castelo, from Rua dos Fanqueiros) and the Santa Luzia lift cut out some of the climb."
+        },
+        {
+          "id": "baixa-chiado",
+          "name": "Baixa & Chiado",
+          "area": "Baixa / Chiado",
+          "category": "history-culture",
+          "blurb": "Baixa's tidy grid was laid out after the earthquake as one of Europe's first planned downtowns. Chiado, on the slope above, is Lisbon's elegant quarter of cafés and bookshops. Bertrand there claims to be the oldest bookshop still trading anywhere, open since 1732. Together they make an easy afternoon of old shopfronts, historic coffeehouses and street musicians, with trams and the Santa Justa lift to handle the hill.",
+          "image": "images/lisbon/baixa-chiado.webp",
+          "imageSmall": "images/lisbon/baixa-chiado-800.webp",
+          "imageAlt": "A yellow tram on a cobbled street between elegant façades in central Lisbon",
+          "imageCredit": {
+            "photographer": "Vicuna R",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_famous_Lisbon_tram_line_28E_(28751566927).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "cafés",
+            "shopping",
+            "architecture",
+            "bookshops"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chiado%20Lisbon",
+          "insiderTip": "Skip the Santa Justa queue: walk up through Chiado and reach its viewing platform from the Largo do Carmo side."
+        },
+        {
+          "id": "parque-das-nacoes",
+          "name": "Parque das Nações & the Oceanário",
+          "area": "Parque das Nações",
+          "category": "nature",
+          "blurb": "A modern riverside district built for Expo '98, with flat boardwalks, gardens and a cable car gliding along the waterfront. Its Oceanário, one of Europe's largest aquariums, is built around a vast central tank, where sharks, rays and a sunfish drift past windows two storeys high. It's a relaxed, wheel-friendly counterpoint to the old town, easy to reach on the metro red line.",
+          "image": "images/lisbon/parque-das-nacoes.webp",
+          "imageSmall": "images/lisbon/parque-das-nacoes-800.webp",
+          "imageAlt": "The Oceanário de Lisboa, a modern building with white masts, standing in the water at Parque das Nações",
+          "imageCredit": {
+            "photographer": "Jorge Franganillo",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocean%C3%A1rio_de_Lisboa_(53870803219).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "flat",
+            "waterfront",
+            "aquarium",
+            "modern",
+            "step-free"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ocean%C3%A1rio%20de%20Lisboa",
+          "websiteUrl": "https://www.oceanario.pt/"
+        },
+        {
+          "id": "jeronimos",
+          "name": "Jerónimos Monastery",
+          "area": "Belém",
+          "category": "history-culture",
+          "blurb": "The masterpiece of Manueline architecture, begun around 1501 with the wealth of the spice trade. Its limestone is carved with twisted ropes, sea creatures and armillary spheres, and Vasco da Gama lies inside. The 300-metre façade alone is spectacular, and you can admire it from the gardens opposite without queueing. The two-storey cloister is the prize if you go in.",
+          "image": "images/lisbon/jeronimos.webp",
+          "imageSmall": "images/lisbon/jeronimos-800.webp",
+          "imageAlt": "The ornate carved limestone south portal and façade of Jerónimos Monastery",
+          "imageCredit": {
+            "photographer": "NorbertNagel",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m_-_Lisbon_-_Portugal_-_02.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "UNESCO",
+            "Manueline",
+            "architecture"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mosteiro%20dos%20Jer%C3%B3nimos",
+          "bestTime": "First entry of the day",
+          "insiderTip": "Entry is by timed ticket; book ahead in high season."
+        },
+        {
+          "id": "belem-tower",
+          "name": "Belém Tower",
+          "area": "Belém",
+          "category": "history-culture",
+          "blurb": "Built in the early 1500s to guard the river approach, this small fortified tower became the emblem of Portugal's Age of Discovery. Look for the carved rhinoceros below the western watchtower. The tower reopened in May 2026 after a year-long restoration. It still looks best from the riverside promenade, where the bright stone stands against the sky and the Tagus.",
+          "image": "images/lisbon/belem-tower.webp",
+          "imageSmall": "images/lisbon/belem-tower-800.webp",
+          "imageAlt": "Belém Tower's white limestone battlements at the water's edge under a deep blue sky",
+          "imageCredit": {
+            "photographer": "Berthold Werner",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-35-39.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "UNESCO",
+            "riverfront",
+            "icon"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Torre%20de%20Bel%C3%A9m",
+          "bestTime": "Late afternoon, from the promenade",
+          "insiderTip": "Visits inside are now timed and capped each day; the outside view is free and arguably better."
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "area": "Belém",
+          "category": "food-wine",
+          "blurb": "The original home of the custard tart, baking since 1837 to a recipe said to come from the monks of Jerónimos next door. Only a handful of people know it. Eat the tarts warm, the pastry shattering, with a dusting of cinnamon and powdered sugar and a coffee in one of the tiled back rooms. The takeaway queue looks daunting but moves fast, and table service is often quicker still.",
+          "image": "images/lisbon/pasteis-de-belem.webp",
+          "imageSmall": "images/lisbon/pasteis-de-belem-800.webp",
+          "imageAlt": "Trays of freshly baked custard tarts with blistered tops in Belém",
+          "imageCredit": {
+            "photographer": "Kim Kash",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasteis_de_nata_from_Belem_(22023386232).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "pastry",
+            "institution",
+            "coffee"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Past%C3%A9is%20de%20Bel%C3%A9m",
+          "websiteUrl": "https://pasteisdebelem.pt/",
+          "bestTime": "Mid-morning or after 6pm"
+        },
+        {
+          "id": "monserrate",
+          "name": "Monserrate Palace & Gardens",
+          "area": "Sintra",
+          "category": "nature",
+          "blurb": "A Romantic palace of Moorish arches and filigree domes, built in the 1860s for an English collector. Below it, botanical gardens fall away into a valley of tree ferns, lakes and plants gathered from five continents. It's far calmer than Sintra's headline sights, and the paths are gentle and shaded, ideal for a slow wander through a living plant collection.",
+          "image": "images/lisbon/monserrate.webp",
+          "imageSmall": "images/lisbon/monserrate-800.webp",
+          "imageAlt": "Monserrate Palace's domed Moorish-style façade framed by garden trees",
+          "imageCredit": {
+            "photographer": "Jorge Lobo",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Monserrate_(1).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "gardens",
+            "palace",
+            "shaded",
+            "quiet",
+            "day trip"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20de%20Monserrate",
+          "websiteUrl": "https://www.parquesdesintra.pt/"
+        },
+        {
+          "id": "pena-palace",
+          "name": "Pena Palace",
+          "area": "Sintra",
+          "category": "history-culture",
+          "blurb": "A fairy-tale hilltop palace in saturated yellows and reds, built in the 1840s for King Ferdinand II and often wrapped in Atlantic mist. Entry is by timed ticket, and late arrivals aren't admitted. A paid park shuttle runs from the entrance gate up the steep lane, saving a climb of about 30 minutes. Go early for soft light and thinner crowds.",
+          "image": "images/lisbon/pena-palace.webp",
+          "imageSmall": "images/lisbon/pena-palace-800.webp",
+          "imageAlt": "Pena Palace's yellow, red and grey towers and domes crowning a wooded hilltop",
+          "imageCredit": {
+            "photographer": "CEphoto, Uwe Aranas",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "UNESCO",
+            "palace",
+            "viewpoint",
+            "shuttle",
+            "day trip"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pal%C3%A1cio%20Nacional%20da%20Pena",
+          "websiteUrl": "https://www.parquesdesintra.pt/",
+          "bestTime": "First slot of the morning",
+          "insiderTip": "Book the palace time slot and the shuttle together online, and leave plenty of time to get up the hill from Sintra town."
+        },
+        {
+          "id": "regaleira",
+          "name": "Quinta da Regaleira (Lower Gardens)",
+          "area": "Sintra",
+          "category": "history-culture",
+          "blurb": "An early-20th-century estate of grottoes, fountains, towers and hidden tunnels, designed as a symbolic landscape full of alchemical and Masonic references. The gardens climb a wooded hillside. Keep to the lower avenues and lakeside grotto for the best mix of atmosphere and ease, and skip the deep spiral stairs of the Initiation Well if steps are a concern. Mornings are calmest.",
+          "image": "images/lisbon/regaleira.webp",
+          "imageSmall": "images/lisbon/regaleira-800.webp",
+          "imageAlt": "Quinta da Regaleira's ornate Gothic-style palace rising above tree ferns and lush gardens",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinta_da_Regaleira,_Sintra,_Portugal,_2019-05-25,_DD_56.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "gardens",
+            "grottoes",
+            "mystical",
+            "day trip"
+          ],
+          "effort": "easy to moderate",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Quinta%20da%20Regaleira",
+          "websiteUrl": "https://www.regaleira.pt/"
+        },
+        {
+          "id": "cascais",
+          "name": "Cascais Promenade & Seafood Lunch",
+          "area": "Cascais",
+          "category": "nature",
+          "blurb": "A fishing village turned seaside resort, with small sandy coves, a harbour of bobbing boats and a breezy promenade that runs along the sea toward Estoril. Walk the waterfront, then settle in for grilled fish or clams with a cold glass of Vinho Verde. It's an easy day out: trains from Cais do Sodré follow the coast and arrive in about 40 minutes.",
+          "image": "images/lisbon/cascais.webp",
+          "imageSmall": "images/lisbon/cascais-800.webp",
+          "imageAlt": "Praia da Ribeira beach curving around Cascais bay, with small boats and the old town behind",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praia_da_Ribeira,_Cascais,_Portugal,_2022-07-25,_DD_02.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "seaside",
+            "seafood",
+            "train",
+            "promenade",
+            "day trip"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cascais%20promenade",
+          "bestTime": "Lunch, then a late-afternoon stroll"
+        },
+        {
+          "id": "tagus-sunset-sail",
+          "name": "Sunset Sail on the Tagus",
+          "area": "Lisbon riverfront",
+          "category": "nature",
+          "blurb": "A seated cruise of around two hours, leaving from the marinas beneath the 25 de Abril Bridge and gliding past the Discoveries Monument and Belém Tower as the city turns gold. It takes no effort and shows Lisbon from the vantage point that made its fortune, the water, with the hills, domes and Cristo Rei lighting up one by one as dusk falls.",
+          "image": "images/lisbon/tagus-sunset-sail.webp",
+          "imageSmall": "images/lisbon/tagus-sunset-sail-800.webp",
+          "imageAlt": "Sailing boats silhouetted on the Tagus as the sun sets over Lisbon",
+          "imageCredit": {
+            "photographer": "Pedro Ribeiro Simões",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagus_River_sunset_-_Sailing_boats_returning_to_dock_(50298826106).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "boat",
+            "sunset",
+            "seated"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Doca%20de%20Santo%20Amaro%20Lisbon",
+          "bestTime": "The hour before sunset"
+        }
+      ]
+    },
+    "madeira": {
+      "name": "Madeira",
+      "kicker": "The garden island",
+      "tagline": "Mountains that rise straight out of the Atlantic",
+      "teaser": "Laurel forest, sea cliffs and water channels threaded along the mountainsides: a subtropical island of steep drama and gentle walks, with poncha waiting at the bottom.",
+      "pullQuote": "Drive an hour and you can go from banana terraces by the sea to a ridge above the clouds.",
+      "intro": [
+        "Madeira looks like a mountain range that has been dropped into the Atlantic. The island is only about 57 kilometres long, yet its volcanic spine climbs to more than 1,800 metres. Nearly every road ends either at a cliff over the sea or at a viewpoint above the clouds. Funchal fills an amphitheatre on the sunny south coast. The north is wetter and wilder, with waterfalls running off cliffs and villages set on narrow ledges.",
+        "Settlers arrived in the fifteenth century and spent centuries carving the slopes into terraces. To water them they built levadas, irrigation channels that run for hundreds of kilometres along the contours of the hills. Many of the maintenance paths beside them are close to level, so walkers can reach deep valleys and ancient laurel forest without much climbing. The Laurisilva, a relic of the forests that once covered southern Europe, is a UNESCO World Heritage Site.",
+        "The island eats and drinks with gusto. There is garlicky bolo do caco straight off the hot stone, beef espetada grilled on bay-laurel skewers, black scabbardfish and limpets by the harbour, and poncha, the sugarcane-spirit cocktail, strong enough to keep you out of the car. The climate is mild all year, but the mountains can be cold and cloudy, so pack a warm layer."
+      ],
+      "quickFacts": [
+        {
+          "label": "Getting there",
+          "value": "Madeira Airport (FNC) is about 20–30 minutes' drive east of Funchal. Flights from Lisbon take roughly 1 hour 45 minutes."
+        },
+        {
+          "label": "Getting around",
+          "value": "A rental car opens up the mountains and north coast; roads are good but steep and winding. Buses and small-group tours cover the main sights."
+        },
+        {
+          "label": "Best for",
+          "value": "Viewpoints, levada walks, gardens, dramatic coastline and hearty island cooking."
+        },
+        {
+          "label": "The vibe",
+          "value": "Lush, vertiginous and relaxed. Flowers everywhere, weather that changes from valley to valley."
+        },
+        {
+          "label": "Good to know",
+          "value": "Several popular trails, including PR11, now charge a small access fee that is paid online in advance. Check current trail status, since paths can close after storms."
+        }
+      ],
+      "categoryIntros": {
+        "food-wine": "Stone-baked bread, laurel-skewered beef and a cocktail that hits harder than it tastes.",
+        "history-culture": "A fishing harbour that charmed a painter and a city that carpets itself in flowers.",
+        "nature": "Above the clouds, along the levadas and over the edge of Europe's highest cape."
+      },
+      "heroImage": "images/madeira/hero.webp",
+      "heroImageSmall": "images/madeira/hero-800.webp",
+      "heroAlt": "Jagged volcanic ridges of central Madeira rising above a sea of cloud",
+      "heroCredit": {
+        "photographer": "cat_collector",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Pico_Ruivo_(22910891362).jpg",
+        "via": "Wikimedia Commons"
+      },
+      "interludes": [
+        {
+          "image": "images/madeira/interlude.webp",
+          "imageSmall": "images/madeira/interlude-800.webp",
+          "alt": "A narrow levada channel running beside a path through forest, edged with white agapanthus",
+          "caption": "The levadas: centuries-old water channels whose maintenance paths now make Madeira's gentlest walks.",
+          "credit": {
+            "photographer": "Sebastian from the EU",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levada,_Madeira_(48807052981).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "after": "food-wine"
+        }
+      ],
+      "spots": [
+        {
+          "id": "pico-do-arieiro",
+          "name": "Pico do Arieiro",
+          "area": "Central mountains",
+          "category": "nature",
+          "blurb": "At 1,818 metres, Madeira's third-highest peak is the one you can drive almost to the top of. You step out above a sea of cloud, with jagged volcanic ridges falling away on every side toward Pico Ruivo. Sunrise is spectacular and popular. A clear late afternoon is quieter. Bring layers, because it is far colder and windier up here than on the coast.",
+          "image": "images/madeira/pico-do-arieiro.webp",
+          "imageSmall": "images/madeira/pico-do-arieiro-800.webp",
+          "imageAlt": "A path along a jagged volcanic ridge at Pico do Arieiro with peaks stretching into the distance",
+          "imageCredit": {
+            "photographer": "H. Zell",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_do_Pico_do_Arieiro_-_Madeira_01.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "viewpoint",
+            "above the clouds",
+            "drive-up"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pico%20do%20Arieiro%20Madeira",
+          "bestTime": "Sunrise or a clear afternoon",
+          "insiderTip": "Check the summit webcam before driving up; when the cloud sits on the peak you'll see nothing at all."
+        },
+        {
+          "id": "ponta-do-rosto",
+          "name": "Ponta do Rosto",
+          "area": "São Lourenço peninsula",
+          "category": "nature",
+          "blurb": "At Madeira's eastern tip the green suddenly stops. The São Lourenço peninsula is a dry, treeless spine of red, ochre and black volcanic rock plunging into deep blue sea. From the small car park at Ponta do Rosto, a few steps bring sweeping views of the cliffs and the wild north coast. It feels like a different island altogether, raw and wind-scoured.",
+          "image": "images/madeira/ponta-do-rosto.webp",
+          "imageSmall": "images/madeira/ponta-do-rosto-800.webp",
+          "imageAlt": "Red and ochre cliffs of the São Lourenço peninsula dropping into deep blue sea",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o,_Madeira,_Portugal,_2019-05-28,_DD_31.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "cliffs",
+            "viewpoint",
+            "dramatic"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ponta%20do%20Rosto%20Madeira",
+          "bestTime": "Morning, before the wind picks up"
+        },
+        {
+          "id": "veu-da-noiva",
+          "name": "Miradouro do Véu da Noiva",
+          "area": "North coast, near Seixal",
+          "category": "nature",
+          "blurb": "A roadside viewpoint facing the 'Bridal Veil', a ribbon of white water that pours off a sheer green cliff and drifts toward the Atlantic far below. It's a quick, rewarding stop, best after rain when the falls are full, and it pairs neatly with Seixal's black-sand beach and the pools at Porto Moniz farther along the wild north coast road.",
+          "image": "images/madeira/veu-da-noiva.webp",
+          "imageSmall": "images/madeira/veu-da-noiva-800.webp",
+          "imageAlt": "The Véu da Noiva waterfall falling down a green sea cliff on Madeira's north coast",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirador_del_Velo_de_Novia,_Seixal,_Madeira,_Portugal,_2019-05-30,_DD_68.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "waterfall",
+            "viewpoint",
+            "roadside"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Miradouro%20do%20V%C3%A9u%20da%20Noiva",
+          "bestTime": "After rain"
+        },
+        {
+          "id": "cabo-girao",
+          "name": "Cabo Girão Skywalk",
+          "area": "Câmara de Lobos",
+          "category": "nature",
+          "blurb": "At around 580 metres, Cabo Girão is billed as the highest cape in Europe. A glass-floored platform hangs out over the sheer drop to tiny terraced fields and the ocean far below. Look straight down if you dare. It's short, thrilling and only about 20 minutes' drive from Funchal, so it fits easily around a lunch in Câmara de Lobos.",
+          "image": "images/madeira/cabo-girao.webp",
+          "imageSmall": "images/madeira/cabo-girao-800.webp",
+          "imageAlt": "Looking down through the glass floor of the Cabo Girão skywalk to terraced fields far below",
+          "imageCredit": {
+            "photographer": "Dirk Klaassen",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabo_Gir%C3%A3o_-_Skywalk.JPG",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "skywalk",
+            "cliff",
+            "viewpoint"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cabo%20Gir%C3%A3o%20Skywalk",
+          "websiteUrl": "https://visitmadeira.com/en/what-to-do/nature-seekers/viewpoints/cabo-girao-viewpoint/",
+          "bestTime": "Early morning, before tour buses"
+        },
+        {
+          "id": "fanal",
+          "name": "Fanal Forest",
+          "area": "Porto Moniz highlands",
+          "category": "nature",
+          "blurb": "On a high plateau above the northwest coast, centuries-old til trees stand alone in grassy clearings. Their gnarled, moss-draped limbs often vanish into drifting fog. This is part of Madeira's UNESCO-listed Laurisilva, and it feels like a storybook woodland. A gentle stroll of 20 to 30 minutes across the open ground is plenty, and on a misty day the fog is part of the appeal.",
+          "image": "images/madeira/fanal.webp",
+          "imageSmall": "images/madeira/fanal-800.webp",
+          "imageAlt": "Gnarled old til trees standing in a grassy clearing, softened by thick fog, at Fanal",
+          "imageCredit": {
+            "photographer": "Dietmar Rabich",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fanal_(Madeira,_Portugal),_Lorbeerwald_--_2025_--_1532.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "laurel forest",
+            "UNESCO",
+            "misty",
+            "flat"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fanal%20Madeira",
+          "websiteUrl": "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal",
+          "bestTime": "A foggy morning"
+        },
+        {
+          "id": "levada-dos-balcoes",
+          "name": "Levada dos Balcões (PR11)",
+          "area": "Ribeiro Frio",
+          "category": "nature",
+          "blurb": "A level, shaded path follows an old irrigation channel through laurel woods for 1.5 kilometres. It ends at a balcony viewpoint over a vast green valley, with the central peaks rising beyond. Allow about an hour there and back at an easy pace, which makes it an ideal first taste of levada walking. Chaffinches often hop up hoping for crumbs.",
+          "image": "images/madeira/levada-dos-balcoes.webp",
+          "imageSmall": "images/madeira/levada-dos-balcoes-800.webp",
+          "imageAlt": "A deep green valley and jagged mountain peaks seen from the Balcões viewpoint",
+          "imageCredit": {
+            "photographer": "Karelj",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira_levada_Ribeiro_Frio_Balc%C3%B5es_2016_6.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "levada",
+            "viewpoint",
+            "shaded",
+            "short walk"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Levada%20dos%20Balc%C3%B5es%20Ribeiro%20Frio",
+          "websiteUrl": "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-11-vereda-dos-balcoes/",
+          "bestTime": "Morning, while the valley is clear",
+          "insiderTip": "A small access fee for PR11 is paid online in advance (via the regional SIMplifica portal); check current rules before you go."
+        },
+        {
+          "id": "monte-palace",
+          "name": "Monte Palace Tropical Garden",
+          "area": "Monte, Funchal",
+          "category": "nature",
+          "blurb": "Terraced gardens tumble down a ravine above Funchal, filled with cycads, koi ponds, Japanese gateways and hundreds of historic azulejo panels. Ride the cable car up from the old town, then wander down through the garden, taking it slowly because the paths are steep in places. Finish with the view over the bay, or with the wicker toboggan ride down to town.",
+          "image": "images/madeira/monte-palace.webp",
+          "imageSmall": "images/madeira/monte-palace-800.webp",
+          "imageAlt": "A red-railed bridge over a pond among palms and flowers in Monte Palace's oriental garden",
+          "imageCredit": {
+            "photographer": "H. Zell",
+            "license": "CC BY-SA 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Oriental_Gardens_10.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "gardens",
+            "cable car",
+            "azulejos",
+            "views"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Monte%20Palace%20Tropical%20Garden",
+          "websiteUrl": "https://www.montepalace.com/",
+          "bestTime": "Morning"
+        },
+        {
+          "id": "porto-moniz",
+          "name": "Porto Moniz Natural Pools",
+          "area": "Northwest coast",
+          "category": "nature",
+          "blurb": "At the island's northwestern tip, black lava rock has formed natural pools that refill with Atlantic seawater on every tide. Waves crash white over the outer walls while swimmers float in the calm water inside. The main complex has changing rooms and a small fee, and there are free pools nearby. The village has plenty of grilled fish to follow.",
+          "image": "images/madeira/porto-moniz.webp",
+          "imageSmall": "images/madeira/porto-moniz-800.webp",
+          "imageAlt": "Natural lava-rock seawater pools at Porto Moniz with Atlantic waves breaking beyond",
+          "imageCredit": {
+            "photographer": "Dietmar Rabich",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Porto_Moniz_(Madeira,_Portugal),_Piscinas_Naturais_do_Porto_Moniz_--_2025_--_1779.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "swimming",
+            "volcanic",
+            "coast"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Porto%20Moniz%20natural%20swimming%20pools",
+          "bestTime": "A calm, sunny afternoon"
+        },
+        {
+          "id": "seixal",
+          "name": "Seixal Black Sand Beach",
+          "area": "North coast",
+          "category": "nature",
+          "blurb": "A small, tucked-away beach of dark volcanic sand beneath sheer green cliffs on Madeira's wild north coast, with vineyards clinging to the slopes above. On calm days the clear water makes for a lovely dip, with the mountains as a backdrop. On rough days, simply watch the swell roll in. There's a small café, and parking down by the old harbour.",
+          "image": "images/madeira/seixal.webp",
+          "imageSmall": "images/madeira/seixal-800.webp",
+          "imageAlt": "Seixal's dark-sand beach below the village and green cliffs",
+          "imageCredit": {
+            "photographer": "Vitor Oliveira",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seixal_-_Ilha_da_Madeira_-_Portugal_(51817017914).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "beach",
+            "black sand",
+            "scenic"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Praia%20do%20Seixal%20Madeira",
+          "bestTime": "Calm summer days"
+        },
+        {
+          "id": "whale-watching",
+          "name": "Whale & Dolphin Watching from Funchal",
+          "area": "Funchal Marina",
+          "category": "nature",
+          "blurb": "Deep water starts just offshore, so seated catamaran and boat trips of around two to three hours reach waters where more than 20 cetacean species have been recorded. Spotted and bottlenose dolphins are common, and Bryde's, sperm and pilot whales appear in season. Choose a licensed operator that follows responsible-viewing rules, and keep expectations open, because sightings are never guaranteed.",
+          "image": "images/madeira/whale-watching.webp",
+          "imageSmall": "images/madeira/whale-watching-800.webp",
+          "imageAlt": "Spotted dolphins leaping through deep blue Atlantic water",
+          "imageCredit": {
+            "photographer": "Ricardo Liberato",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Race_is_On.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "boat",
+            "wildlife",
+            "seated"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Funchal%20Marina",
+          "bestTime": "Morning, when seas are calmer"
+        },
+        {
+          "id": "bolo-do-caco",
+          "name": "Bolo do Caco",
+          "area": "Islandwide",
+          "category": "food-wine",
+          "blurb": "Madeira's essential bread is a soft, round flatbread made with sweet potato and cooked on a caco, a hot basalt slab. It is split open while warm and spread with garlic and parsley butter. You'll find it everywhere: as a starter at grills, at market stalls and roadside kiosks, or stuffed with thin-sliced steak and egg as a 'prego' sandwich.",
+          "image": "images/madeira/bolo-do-caco.webp",
+          "imageSmall": "images/madeira/bolo-do-caco-800.webp",
+          "imageAlt": "Freshly baked round bolo do caco flatbreads, golden and floury",
+          "imageCredit": {
+            "photographer": "Ana Cake Design",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bolo_do_caco_acabadinhos_de_cozer.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "bread",
+            "snack",
+            "local classic"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=bolo%20do%20caco%20Funchal"
+        },
+        {
+          "id": "espetada",
+          "name": "Espetada em Pau de Louro",
+          "area": "Mountain villages (e.g. Santo António)",
+          "category": "food-wine",
+          "blurb": "Chunks of beef rubbed with garlic, coarse salt and bay leaf are threaded onto a bay-laurel branch and grilled over wood embers. The skewer is then hung from a hook above the table so everyone can slide off their own. The laurel perfumes the meat. Order it with bolo do caco, fried maize cubes and a cold Coral beer or a glass of local red.",
+          "image": "images/madeira/espetada.webp",
+          "imageSmall": "images/madeira/espetada-800.webp",
+          "imageAlt": "Beef espetada skewers grilling over open flames",
+          "imageCredit": {
+            "photographer": "Dirk Klaassen",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Espetadagrill_am_Strandfest.JPG",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "beef",
+            "grilled",
+            "signature dish"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=espetada%20restaurant%20Santo%20Ant%C3%B3nio%20Funchal"
+        },
+        {
+          "id": "camara-de-lobos-harbor",
+          "name": "Câmara de Lobos Harbor",
+          "area": "Câmara de Lobos",
+          "category": "history-culture",
+          "blurb": "A working fishing village of brightly painted boats hauled up on the pebbles, with cliffs rising behind and old men playing cards in the square. It's named for the monk seals ('sea wolves') the first sailors found here. In 1950 Winston Churchill set up his easel by the harbour to paint it. Linger at a harbourside café and watch the boats.",
+          "image": "images/madeira/camara-de-lobos-harbor.webp",
+          "imageSmall": "images/madeira/camara-de-lobos-harbor-800.webp",
+          "imageAlt": "Brightly painted wooden fishing boats pulled up in Câmara de Lobos harbour",
+          "imageCredit": {
+            "photographer": "Dietmar Rabich",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A2mara_de_Lobos_(Madeira,_Portugal),_Porto_de_C%C3%A2mara_de_Lobos_--_2025_--_1901.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "fishing village",
+            "harbor",
+            "photogenic"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=C%C3%A2mara%20de%20Lobos%20harbour",
+          "bestTime": "Late afternoon light"
+        },
+        {
+          "id": "robalo-camara-de-lobos",
+          "name": "Grilled Robalo (Sea Bass)",
+          "area": "Câmara de Lobos",
+          "category": "food-wine",
+          "blurb": "In a harbour town, fresh fish is the point. Sea bass is grilled whole over charcoal and dressed with olive oil, garlic and lemon. Order it at the restaurants lining the waterfront, with boiled potatoes and a salad. Ask about the catch of the day, and try two Madeiran classics too: limpets sizzling in garlic butter and the black scabbardfish, espada.",
+          "image": "images/madeira/robalo-camara-de-lobos.webp",
+          "imageSmall": "images/madeira/robalo-camara-de-lobos-800.webp",
+          "imageAlt": "A grilled sea bass fillet with crisp skin, served with herbs",
+          "imageCredit": {
+            "photographer": "Peter O'Connor",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:GOC_Wheathampstead_Xmas_2013_061_Grilled_sea_bass_(11476849023).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "seafood",
+            "lunch",
+            "harbor"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=seafood%20restaurant%20C%C3%A2mara%20de%20Lobos",
+          "bestTime": "A long lunch"
+        },
+        {
+          "id": "poncha",
+          "name": "Poncha at Taberna da Poncha",
+          "area": "Serra de Água, Ribeira Brava",
+          "category": "food-wine",
+          "blurb": "Madeira's signature drink combines aguardente de cana (sugarcane spirit) with honey and fresh lemon, churned together with a wooden caralhinho (muddler). It's sweet, sharp and stronger than it tastes. Taberna da Poncha, a roadside tavern in the mountain village of Serra de Água, is a well-known place to try the classic version, and peanut shells pile up underfoot by evening.",
+          "image": "images/madeira/poncha.webp",
+          "imageSmall": "images/madeira/poncha-800.webp",
+          "imageAlt": "A glass of golden poncha, Madeira's honey and lemon cocktail",
+          "imageCredit": {
+            "photographer": "Mitsjol",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poncha.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "cocktail",
+            "local classic",
+            "honey"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Taberna%20da%20Poncha%20Serra%20de%20%C3%81gua",
+          "insiderTip": "The tavern is on a steep mountain road, so let someone else drive. Câmara de Lobos, which claims to be poncha's birthplace, has good poncha bars too."
+        },
+        {
+          "id": "flower-festival",
+          "name": "Madeira Flower Festival",
+          "area": "Funchal",
+          "category": "history-culture",
+          "blurb": "Each spring, Funchal fills with floral carpets, flower-decked balconies and a weeks-long exhibition at the heart of the city. It peaks with the Allegorical Parade, when dancers in petal-covered costumes and flower-covered floats wind through the centre. The festival usually runs from late April into May, with the main parade on a Sunday early on, so check the official dates for the year you visit.",
+          "image": "images/madeira/flower-festival.webp",
+          "imageSmall": "images/madeira/flower-festival-800.webp",
+          "imageAlt": "A Flower Festival display in Funchal: a model ship and boats set on a carpet of blossoms",
+          "imageCredit": {
+            "photographer": "Paulo SP",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festa_da_Flor_2019,_Funchal,_Madeira_-_IMG_20190503_160908.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "festival",
+            "flowers",
+            "spring"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Funchal%20city%20centre",
+          "bestTime": "Late April to May"
+        },
+        {
+          "id": "achadas-da-cruz",
+          "name": "Achadas da Cruz Cable Car",
+          "area": "Northwest coast",
+          "category": "nature",
+          "blurb": "One of Europe's steepest cable cars drops down a sheer sea cliff, roughly 450 metres, to a tiny shelf of farm terraces and stone huts at the water's edge. Farmers once reached it on foot by a perilous path. Today the ride itself is the reason to go: a few swaying minutes of sea spray, cliff face and open drop.",
+          "image": "images/madeira/achadas-da-cruz.webp",
+          "imageSmall": "images/madeira/achadas-da-cruz-800.webp",
+          "imageAlt": "Looking straight down the Achadas da Cruz cable car line from the clifftop station to the sea",
+          "imageCredit": {
+            "photographer": "Asurnipal",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madeira-Porto_Moniz-Achadas_da_Cruz_aerial_tramway_(teleferico)-Faja_da_Quebrada_Nova-top_station-11ASD.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "cable car",
+            "cliff",
+            "unusual"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Telef%C3%A9rico%20das%20Achadas%20da%20Cruz",
+          "insiderTip": "It closes periodically for maintenance; check with the Porto Moniz municipality before making the drive."
+        }
+      ]
+    },
+    "azores": {
+      "name": "The Azores",
+      "kicker": "The volcanic islands",
+      "tagline": "Crater lakes, hot springs and hydrangeas in mid-Atlantic",
+      "teaser": "On São Miguel, the largest of the nine islands, volcanoes have left twin lakes, steaming valleys and warm iron-red pools, all set among dairy pastures and tea fields.",
+      "pullQuote": "Here the earth cooks your lunch, warms your bath and paints its lakes two different blues.",
+      "intro": [
+        "The Azores sit in the mid-Atlantic, about two hours' flight west of Lisbon, where the Eurasian, North American and African plates meet. The nine islands are the tops of volcanoes, and the volcanic activity still shows. On São Miguel, the largest island and the focus of this guide, the land steams, bubbles and pools in ways that feel almost staged.",
+        "Few landscapes in Europe are greener. Rain and mild temperatures keep pastures emerald all year, and in early summer thousands of hydrangeas line the roads in blue and violet. Crater lakes fill old calderas: Sete Cidades in the west, Lagoa do Fogo high in the centre, Furnas in the east. Furnas has hot springs and fumaroles, and its famous stew is slow-cooked in pots buried in the warm ground.",
+        "The weather is known for 'four seasons in a day', so a cloud-covered viewpoint can clear twenty minutes later. Keep plans loose, bring a light waterproof and dark swimwear, since the iron-rich thermal water stains. Then take in the tea fields, the black-and-white streets of Ponta Delgada and the hothouse pineapples, all a long way from mainland Europe."
+      ],
+      "quickFacts": [
+        {
+          "label": "Getting there",
+          "value": "João Paulo II Airport (PDL) in Ponta Delgada, São Miguel. Flights from Lisbon take about 2 hours 15 minutes."
+        },
+        {
+          "label": "Getting around",
+          "value": "A rental car is the easiest way to see São Miguel; the island is roughly 65 km end to end. Some sites limit traffic in high season."
+        },
+        {
+          "label": "Best for",
+          "value": "Crater-lake viewpoints, thermal bathing, gentle nature, tea and volcanic cooking."
+        },
+        {
+          "label": "The vibe",
+          "value": "Green, quiet, rural, and unhurried in the best way."
+        },
+        {
+          "label": "Good to know",
+          "value": "Weather shifts fast; check the live viewpoint webcams before driving up. Popular hot springs use timed tickets, so book ahead in summer."
+        }
+      ],
+      "categoryIntros": {
+        "food-wine": "Stew cooked by the volcano, and the sweetest pineapples you'll find in Europe.",
+        "history-culture": "Europe's oldest tea plantation, still rolling leaves on 19th-century machines.",
+        "nature": "Calderas, crater lakes and water warm enough to soak in."
+      },
+      "heroImage": "images/azores/hero.webp",
+      "heroImageSmall": "images/azores/hero-800.webp",
+      "heroAlt": "The green and blue lakes of Sete Cidades inside a forested volcanic caldera",
+      "heroCredit": {
+        "photographer": "Jules Verne Times Two",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_and_blue_lagoons,_Lagoa_das_Sete_Cidades,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+        "via": "Wikimedia Commons"
+      },
+      "interludes": [
+        {
+          "image": "images/azores/interlude.webp",
+          "imageSmall": "images/azores/interlude-800.webp",
+          "alt": "Blue and white hydrangeas on a crater rim above a lake hidden in cloud",
+          "caption": "In early summer, hydrangeas edge the roads and pastures across the islands in blue and violet.",
+          "credit": {
+            "photographer": "Guillaume Baviere",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:A%C3%A7ores_2010-07-23_(5160109441).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "after": "food-wine"
+        }
+      ],
+      "spots": [
+        {
+          "id": "vista-do-rei",
+          "name": "Vista do Rei",
+          "area": "Sete Cidades, São Miguel",
+          "category": "nature",
+          "blurb": "This is the postcard view of the Azores. Twin lakes, one blue and one green, lie side by side in a vast, steep-sided caldera, with the village of Sete Cidades tucked along the shore. It's about 30 minutes' drive from Ponta Delgada to a roadside viewpoint, with the shell of an abandoned hotel behind you and the lakes spread out ahead.",
+          "image": "images/azores/vista-do-rei.webp",
+          "imageSmall": "images/azores/vista-do-rei-800.webp",
+          "imageAlt": "The twin lakes of Sete Cidades spreading across the caldera, seen from Vista do Rei",
+          "imageCredit": {
+            "photographer": "José Luís Ávila Silveira / Pedro Noronha e Costa",
+            "license": "Public domain",
+            "licenseUrl": "",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagoa_das_Sete_Cidades,_Miradouro_da_vista_do_Rei,_Sete_Cidades,_Ponta_Delgada,_ilha_de_S%C3%A3o_Miguel,_A%C3%A7ores.JPG",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "crater lakes",
+            "viewpoint",
+            "drive-up"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Vista%20do%20Rei",
+          "bestTime": "Morning, before cloud builds"
+        },
+        {
+          "id": "boca-do-inferno",
+          "name": "Miradouro da Boca do Inferno",
+          "area": "Sete Cidades, São Miguel",
+          "category": "nature",
+          "blurb": "The single best view over Sete Cidades. A short path of 10 to 20 minutes from the parking area rises gently along a ridge, with some steps near the end. It leads to a narrow viewpoint where several crater lakes appear at once, layered between forested ridges with the ocean beyond. The walk is easy, and the view is unforgettable.",
+          "image": "images/azores/boca-do-inferno.webp",
+          "imageSmall": "images/azores/boca-do-inferno-800.webp",
+          "imageAlt": "A narrow ridge path leading toward the crater lakes of Sete Cidades",
+          "imageCredit": {
+            "photographer": "Alexandros Kellaris",
+            "license": "CC BY 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sete_Cidades_view_(51841132890).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "crater lakes",
+            "short walk",
+            "viewpoint"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Boca%20do%20Inferno",
+          "bestTime": "Clear mornings"
+        },
+        {
+          "id": "lagoa-do-fogo",
+          "name": "Lagoa do Fogo",
+          "area": "Central São Miguel",
+          "category": "nature",
+          "blurb": "Lagoa do Fogo, the 'Lake of Fire', fills a crater high in the island's centre. Its pale beach and steep green walls lie inside a protected nature reserve, often half hidden in cloud. Roadside viewpoints on the rim give the full panorama without any real walking. The weather can close in quickly, though, so go when the sky is clear.",
+          "image": "images/azores/lagoa-do-fogo.webp",
+          "imageSmall": "images/azores/lagoa-do-fogo-800.webp",
+          "imageAlt": "Lagoa do Fogo's deep blue crater lake ringed by steep green slopes",
+          "imageCredit": {
+            "photographer": "Simon Rufux",
+            "license": "CC BY 3.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagoa_Do_Fogo_(43709754).jpeg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "crater lake",
+            "viewpoint",
+            "moody"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Miradouro%20da%20Lagoa%20do%20Fogo",
+          "bestTime": "Clear mornings",
+          "insiderTip": "From mid-June to the end of September the access road has been closed to private cars during the day, with a paid shuttle running from Caldeira Velha instead. Check the current season's rules."
+        },
+        {
+          "id": "furnas-valley",
+          "name": "Furnas Valley & Cozido",
+          "area": "Furnas, São Miguel",
+          "category": "food-wine",
+          "blurb": "In Furnas the ground smokes. Flat boardwalks lead past fumaroles, bubbling mud pools and springs that smell of sulphur. By the lake, cooks lower pots of meat, sausage, cabbage and potatoes into holes in the hot earth, and leave cozido das Furnas to cook in volcanic heat for six hours or so. At lunchtime the pots come up and the stew is served in restaurants nearby.",
+          "image": "images/azores/furnas-valley.webp",
+          "imageSmall": "images/azores/furnas-valley-800.webp",
+          "imageAlt": "Steam rising from the hot springs and fumaroles of the Caldeiras das Furnas",
+          "imageCredit": {
+            "photographer": "Regina Hart",
+            "license": "CC BY-SA 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caldeiras_das_Furnas_EP1040562_(29867528667).jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "geothermal",
+            "boardwalk",
+            "local dish"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Caldeiras%20das%20Furnas",
+          "bestTime": "Late morning, to watch the pots lifted",
+          "insiderTip": "Book cozido for lunch the day before; popular restaurants can run out."
+        },
+        {
+          "id": "terra-nostra",
+          "name": "Terra Nostra Garden",
+          "area": "Furnas, São Miguel",
+          "category": "nature",
+          "blurb": "A grand botanical garden begun in the 1770s. Its centrepiece is a large thermal pool, rust-orange with iron and around 35 to 40°C. Soak beneath tree ferns and huge centuries-old trees, then wander paths past camellias, cycads and hidden ponds. The paths are easy enough for a lazy afternoon. Bring an old dark swimsuit, because the water stains anything pale.",
+          "image": "images/azores/terra-nostra.webp",
+          "imageSmall": "images/azores/terra-nostra-800.webp",
+          "imageAlt": "Terra Nostra's large rust-orange thermal pool in front of a white manor house and tall trees",
+          "imageCredit": {
+            "photographer": "Timur I. Davletshin",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terra_Nostra_-_A%C3%A7ores.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "imageFocus": "50% 88%",
+          "tags": [
+            "botanical garden",
+            "hot spring",
+            "soak"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Terra%20Nostra%20Park%20Furnas",
+          "bestTime": "Late afternoon"
+        },
+        {
+          "id": "caldeira-velha",
+          "name": "Caldeira Velha",
+          "area": "Ribeira Grande, São Miguel",
+          "category": "nature",
+          "blurb": "Hot spring pools and a small waterfall are tucked into a steep ravine of giant ferns, with an environmental interpretation centre on site. The pools range from pleasantly warm to properly hot, up to around 38°C, and it feels wilder and more natural than Terra Nostra. Entry is by timed slot, so book ahead, especially in summer and at weekends.",
+          "image": "images/azores/caldeira-velha.webp",
+          "imageSmall": "images/azores/caldeira-velha-800.webp",
+          "imageAlt": "A steaming hot spring pool surrounded by tree ferns and rainforest at Caldeira Velha",
+          "imageCredit": {
+            "photographer": "L0ll0",
+            "license": "CC0",
+            "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hot_spring_in_Caldeira_Velha.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "hot spring",
+            "rainforest",
+            "waterfall"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Caldeira%20Velha%20S%C3%A3o%20Miguel",
+          "websiteUrl": "https://parquesnaturais.azores.gov.pt/bilheteira/caldeiravelha/?lang=en",
+          "bestTime": "First or last slot of the day"
+        },
+        {
+          "id": "gorreana-tea",
+          "name": "Gorreana Tea Estate",
+          "area": "Maia, São Miguel",
+          "category": "history-culture",
+          "blurb": "Founded in 1883 and run by the same family ever since, Gorreana is regarded as Europe's oldest tea plantation. Emerald rows tumble toward the Atlantic on the island's north coast. Wander the fields, watch the leaves withered, rolled and dried on century-old machinery in the factory, and finish with a free cup of green or black tea in the old tasting room.",
+          "image": "images/azores/gorreana-tea.webp",
+          "imageSmall": "images/azores/gorreana-tea-800.webp",
+          "imageAlt": "Rows of tea bushes with a dirt path running through the Gorreana plantation",
+          "imageCredit": {
+            "photographer": "Krzysztof Ziarnek, Kenraiz",
+            "license": "CC BY 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorreana_Tea_Plantation_kz01.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "tea",
+            "plantation",
+            "coast"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A1%20Gorreana",
+          "websiteUrl": "https://gorreana.pt/"
+        },
+        {
+          "id": "ponta-delgada",
+          "name": "Ponta Delgada & Pineapple Greenhouses",
+          "area": "Ponta Delgada, São Miguel",
+          "category": "food-wine",
+          "blurb": "The island's main town has whitewashed churches edged in black basalt, mosaic pavements and the triple arches of the Portas da Cidade by the harbour. Fresh seafood is served along the waterfront. On the edge of town, pineapples have grown in glasshouses since the 19th century, smoked to make them flower. The fruit is small, intensely sweet and worth tasting.",
+          "image": "images/azores/ponta-delgada.webp",
+          "imageSmall": "images/azores/ponta-delgada-800.webp",
+          "imageAlt": "The triple white-and-basalt arches of the Portas da Cidade with a clock tower behind, in Ponta Delgada",
+          "imageCredit": {
+            "photographer": "Diego Delso",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portas_de_Cidade,_Ponta_Delgada,_isla_de_San_Miguel,_Azores,_Portugal,_2020-07-30,_DD_81.jpg",
+            "via": "Wikimedia Commons"
+          },
+          "tags": [
+            "harbor",
+            "seafood",
+            "pineapple",
+            "town"
+          ],
+          "effort": "easy",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ponta%20Delgada%20centro%20hist%C3%B3rico"
+        }
+      ]
+    }
+  }
+}

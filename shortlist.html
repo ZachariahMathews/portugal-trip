@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My shortlist — Portugal: Three Ways In</title>
+<meta name="description" content="The spots you have starred, kept only in this browser.">
+<meta name="theme-color" content="#faf7f1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/fraunces-opsz.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/source-sans-3.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="data/places.json" as="fetch" crossorigin>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="shortlist">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-nav">
+  <div class="site-nav__inner">
+    <a class="site-nav__brand" href="./">3W<span>&nbsp;· Three Ways In</span></a>
+    <nav aria-label="Destinations"><ul class="site-nav__links"><li><a href="lisbon.html" data-nav="lisbon">Lisbon</a></li><li><a href="madeira.html" data-nav="madeira">Madeira</a></li><li><a href="azores.html" data-nav="azores">Azores</a></li><li><a href="shortlist.html" data-nav="shortlist" aria-current="page"><span aria-hidden="true">★</span><span class="visually-hidden">My shortlist</span> <span class="shortlist-count" data-shortlist-count hidden>0</span></a></li></ul></nav>
+  </div>
+</header>
+<main id="main" tabindex="-1">
+  <div class="page-head">
+    <p class="kicker">Saved in this browser only</p>
+    <h1 id="shortlist-title" tabindex="-1">My shortlist</h1>
+    <p>Every spot you’ve marked <em>Want to see</em>, across all three destinations. Nothing leaves your device.</p>
+  </div>
+  <div class="shortlist" id="shortlist" aria-live="polite"><p class="notice">Loading…</p></div>
+</main>
+<noscript><p class="notice">This guide needs JavaScript to read its content from <code>data/places.json</code>.</p></noscript>
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <p><strong>Portugal: Three Ways In</strong></p>
+    <p>An independent, general travel guide. Opening hours, prices and access rules change, so check official sources before you go. Photos are credited under each image and used under their free licences.</p>
+    <p>No analytics, no cookies, no trackers. Starred spots are kept in your browser’s local storage and never leave your device.</p>
+  </div>
+</footer>
+<script src="js/app.js" defer></script>
+</body>
+</html>
